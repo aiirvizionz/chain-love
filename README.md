@@ -1,5 +1,7 @@
 # Chain.Love Web3 Database
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 This repository documents blockchain service providers - wallets, explorers, analytics, bridges, dev tools, sdks, faucets, apis, oracles, indexing services, etc. - in a structured way.
 
 The goal is to build a **clean, comparable dataset** that developers and researchers can rely on.
