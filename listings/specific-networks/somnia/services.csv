@@ -1,8 +1,9 @@
 slug,provider,offer,actionButtons,toolType,tag,price,planName,planType,description,starred
 agent-kit,,!offer:agent-kit,,,,,,,,
 chain-ide,,!offer:chain-ide,,,,,,,,
-pimlico-account-abstraction,,!offer:pimlico-account-abstraction,,,,,,,,
+"pimlico-account-abstraction","","!offer:pimlico-account-abstraction","","","","","","","",""
 reown-free,,!offer:reown-free,,,,,,,,
 reown-pro,,!offer:reown-pro,,,,,,,,
 scaffold-eth,,!offer:scaffold-eth,,,,,,,,
 somnia-agents-skills,,!offer:somnia-agents-skills,,,,,,,,
+usdso,,!offer:usdso,"[""[Docs](https://docs.somnia.network/developer/smart-contracts)"",""[USDso](https://explorer.somnia.network/token/0x00000022dA000002656c64D9eA6011ea952D008A)""]",,,,,,,
